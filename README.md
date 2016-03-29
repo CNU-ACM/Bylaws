@@ -15,7 +15,7 @@ communication between persons having interest in computing machinery.
 The Association for Computing Machinery shall not haze any prospective or current member for the purpose of admission into or
 affiliation with the organization.  Members of the Association for Computing Machinery are free to leave or disassociate
 without fear of retribution or harassment.  The Association for Computing Machinery shall not discriminate based on race,
-creed, color, sex, age, national origin, disability, and sexual orientation. (The previsions of this article must conform to
+creed, color, sex, age, national origin, disability, and sexual orientation. (The provisions of this article must conform to
 the provisions of ACM Bylaw 6, Section 6; and the ACM Constitution, Article 3.) A full-time student at Christopher Newport
 University who is a member in good standing of the ACM, may upon request and payment of dues become a voting member of this
 chapter.
@@ -43,7 +43,7 @@ Any member who has served in either of the offices of chair or vice chair in eac
 office in the immediately following year.
 
 Any member who wishes to serve as the chair or vice chair for a given semester may not be chair (president), vice chair (vice
-president), or any other similar top positions within another organizations at Christopher Newport University.
+president), or any other similar top positions within other organizations at Christopher Newport University.
 
 It is recommended, but not required that a member running for treasurer not be the treasurer of another organization. Officers
 may be impeached from their positions so long as there is four-fifths vote from the Executive Council (including the officer
@@ -104,7 +104,7 @@ Meetings of the Executive Council shall be called by the chair at his or her dis
 Executive Council.
 
 ## Article VIII – Committees
-The Standing Committee shall be:
+The Standing Committees shall be:
 
 The Program Committee, which shall plan and arrange meetings of the chapter in accordance with membership interest and the aims
 of this chapter as set forth in Article II; and shall prepare a calendar of regularly scheduled meetings each year.
