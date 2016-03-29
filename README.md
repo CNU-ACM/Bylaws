@@ -42,9 +42,6 @@ of the next election meeting, to be held the following fall semester.
 Any member who has served in either of the offices of chair or vice chair in each of two consecutive years, may not hold either
 office in the immediately following year.
 
-Any member who wishes to serve as the chair or vice chair for a given semester may not be chair (president), vice chair (vice
-president), or any other similar top positions within other organizations at Christopher Newport University.
-
 It is recommended, but not required that a member running for treasurer not be the treasurer of another organization. Officers
 may be impeached from their positions so long as there is four-fifths vote from the Executive Council (including the officer
 being impeached) or from a four-fifths vote from the Voting Members so long as there are a minimum of fifteen voting members.
