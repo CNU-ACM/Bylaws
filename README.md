@@ -65,7 +65,7 @@ the chair that are so delegated by the chair.  The vice chair shall also be chai
 
 The secretary shall keep minutes of all chapter meetings and Executive Council meetings.  The secretary shall also create,
 review, and send out flyers for events, as decided on by the chapter.  The secretary shall also be chair of the Publicity
-Committee.
+Committee. The secretary shall also be in charge of updating the events page on the ACM Website.
 
 The treasurer shall collect dues and maintain financial and membership records.  The treasurer shall make the annual report of
 this chapter's finances required by the treasurer ACM (Bylaw 9, Section 4.)  The treasurer shall also issue all reimbursements
