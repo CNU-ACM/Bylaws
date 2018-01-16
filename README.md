@@ -156,8 +156,7 @@ included in the minutes of that meeting.
 Annual dues shall be established by the Executive Council.
 
 ## Article XII – Amendments and Procedure
-The bylaws shall be reviewed at one and only one meeting with all voting members each semester, in order to review changes that
-the chapter deems necessary for the bylaws.  Notices must be sent prior to this meeting to all voting members.
+Notices on meetings to change bylaws must be sent prior to the meeting to all voting members.
 
 Amendments to these bylaws shall be made in the following manner. The proposed amendment shall be read at a regularly announced
 chapter meeting.
